@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome to my GitHub! 
+My name is Pham Thi Huong. I am passionate about data analysis, business intelligence, financial markets, risk analysis, and building data-driven solutions. [Data Analytics, Business Intelligence & Finance Enthusiast | R, Excel, SQL, Python, Power BI, Stata, LaTeX.]
 <!--
 **phamhuongbds/phamhuongbds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
